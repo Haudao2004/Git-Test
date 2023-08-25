@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
-    printf(" text");
+int main (){
+    printf("teach");
     return 0;
 }
